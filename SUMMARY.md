@@ -29,4 +29,9 @@
  * [Ubuntu桌面安装配置](chapter3/section1.7.md)
  * [Ubuntu开发环境安装配置](chapter3/section1.8.md)
 * [shell脚本编程](chapter4/README.md)
+* [常用服务器搭建](chapter5/REAdME.md)
+ * [vpn服务器搭建](chapter5/section1.1.md)
+ * [邮件服务器搭建](chapter5/section1.2.md)
+* [nginx服务器配置](chapter5/README.md)
+
 

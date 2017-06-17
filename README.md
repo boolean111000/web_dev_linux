@@ -1,3 +1,6 @@
-# My Awesome Book
+# WEB开发简明指南 | linux篇
+·········　　　　Author 　　   Boole·Yim　　··················
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+---
+
+![](/assets/timg.jpg)
